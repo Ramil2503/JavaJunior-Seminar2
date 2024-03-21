@@ -1,6 +1,4 @@
-package rr.example.tests;
-
-import com.sun.security.jgss.GSSUtil;
+package rr.example.homework_tests;
 
 import java.lang.reflect.AccessFlag;
 import java.lang.reflect.Constructor;

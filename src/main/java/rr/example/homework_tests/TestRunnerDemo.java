@@ -1,4 +1,4 @@
-package rr.example.tests;
+package rr.example.homework_tests;
 
 public class TestRunnerDemo {
     public static void main(String[] args) {
