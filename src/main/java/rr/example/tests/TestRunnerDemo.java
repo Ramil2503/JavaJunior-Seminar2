@@ -30,17 +30,17 @@ public class TestRunnerDemo {
         System.out.println("after all");
     }
 
-    @Test
+    @Test(order = 3)
     void test1() {
         System.out.println("test1");
     }
 
-    @Test
+    @Test(order = 2)
     void test2() {
         System.out.println("test2");
     }
 
-    @Test
+    @Test(order = 1)
     void test3() {
         System.out.println("test3");
     }
